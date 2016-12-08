@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9D969405-B8AB-1C41-CBC9-C5DF901A7D65}") = "Procrastination game", "Assembly-CSharp.csproj", "{DA9AB3FC-C15F-97E4-B643-49ADD3687664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA9AB3FC-C15F-97E4-B643-49ADD3687664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA9AB3FC-C15F-97E4-B643-49ADD3687664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA9AB3FC-C15F-97E4-B643-49ADD3687664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA9AB3FC-C15F-97E4-B643-49ADD3687664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
